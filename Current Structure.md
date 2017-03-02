@@ -1,8 +1,13 @@
 # Current Structure
 
-This represents the current data points we are recording in our Fixometer application.  This doesn't represent the full data schema of the Fixometer application - e.g. some internal tables such as users are not recorded here.  
+This represents the current data points we are recording in our Fixometer application.  Note: this doesn't represent the full data schema of the Fixometer application - e.g. some internal tables such as users are not recorded here.  See the [Fixometer](https://github.com/therestartproject/fixometer) project for more information.
+
+The structure here is provided as reference for a starting point to the open standard.
 
 ## categories
+
+Devices are grouped into categories.  The category also acts as a proxy for the carbon footprint and waste weight measures.  
+Each category contains data on the average weight, data on how repaired devices displace new devices, and on the carbon footprint to manufacture each type of electrical device.
 
 * `idcategories`: unique identifier.
 * `name`: category name.
@@ -18,10 +23,14 @@ This represents the current data points we are recording in our Fixometer applic
 
 ## clusters
 
+The device categories fit in to four clusters: computers and home office, electronic gadgets, home entertainment, kitchen and household items.
+
 * `idclusters`: unique identifier.
 * `name`: name of the cluster.
 
 ## devices
+
+Devices are the items that are brought to events to be fixed.  Various characteristics of the device are recorded, and the outcome of the attempted repair is also recorded.
 
 * `iddevices`: unique identifier.
 * `event`: The event that the device has been recorded at.
@@ -36,11 +45,13 @@ This represents the current data points we are recording in our Fixometer applic
 * `professional_help`: 
 * `more_time_needed`: 
 * `do_it_yourself`: 
-* `repaired_by`: do we record this in the interface?
+* `repaired_by`: 
 * `created_at`: internal audit trail purposes.
 * `modified_at`: internal audit trail purposes.
 
 ## events
+
+Devices are brought for repair to events.  At an event, multiple devices are logged.
 
 * `idevents`: unique identifier.
 * `group`: foreign key to the group this event is part of.
@@ -50,15 +61,17 @@ This represents the current data points we are recording in our Fixometer applic
 * `location`: textual description of where the event is taking place.
 * `latitude`: geocoded latitude
 * `longitude`: geocoded longitude
-* `free_text`: textual description of the event? 
-* `pax`: what is this?
-* `volunteers`: number of participants?  
-* `hours`: number of hours that the event lasted?  
-* `wordpress_post_id`: link to the corresponding post on Wordpress for the event.
+* `free_text`: textual description of the event
+* `pax`: 
+* `volunteers`:
+* `hours`:   
+* `wordpress_post_id`: link to the corresponding post on Wordpress for the event
 * `created_at`: internal audit trail.  
 * `modified_at`: internal audit trail. 
 
 ## groups
+
+A group hosts the events that devices are brought to for repair.
 
 * `idgroups`: unique identifier.
 * `name`: the group's name.
