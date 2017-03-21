@@ -11,7 +11,7 @@ Each category contains data on the average weight, data on how repaired devices 
 
 * `idcategories`: unique identifier.
 * `name`: category name.
-* `weight`: 
+* `weight`: average weight. 
 * `footprint`: 
 * `footprint_reliability`: metric for the reliability of the data.  
 * `lifecycle`: 
@@ -36,16 +36,16 @@ Devices are the items that are brought to events to be fixed.  Various character
 * `event`: The event that the device has been recorded at.
 * `category`: The category that the device is part of.
 * `category_creation`: 
-* `estimate`: what is this varchar?
+* `estimate`: 
 * `brand`: A description of the manufactuer of the device.  
 * `model`: A description of the model.  
 * `problem`:  What is the problem?
 * `spare_parts`: Whether or not spare parts are needed as part of the fix.
 * `repair_status`: Whether it was fixed, repairable, or end-of-life. 
-* `professional_help`: 
-* `more_time_needed`: 
-* `do_it_yourself`: 
-* `repaired_by`: 
+* `professional_help`: When a device is repairable, whether it requires a professional repairer 
+* `more_time_needed`: When a device is repairable, whether it requires more time at a future community event
+* `do_it_yourself`: When a device is repairable, whether the repair can be completed by the owner 
+* `repaired_by`: Volunteer who led the repair (currently not active)
 * `created_at`: internal audit trail purposes.
 * `modified_at`: internal audit trail purposes.
 
@@ -62,9 +62,9 @@ Devices are brought for repair to events.  At an event, multiple devices are log
 * `latitude`: geocoded latitude
 * `longitude`: geocoded longitude
 * `free_text`: textual description of the event
-* `pax`: 
-* `volunteers`:
-* `hours`:   
+* `pax`: number of participants
+* `volunteers`: number of volunteers
+* `hours`:   number of hours volunteered
 * `wordpress_post_id`: link to the corresponding post on Wordpress for the event
 * `created_at`: internal audit trail.  
 * `modified_at`: internal audit trail. 
