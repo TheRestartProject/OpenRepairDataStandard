@@ -2,7 +2,7 @@
 
 This represents the current data points we are recording in our Fixometer application.  Note: this doesn't represent the full data schema of the Fixometer application - e.g. some internal tables such as users are not recorded here.  See the [Fixometer](https://github.com/therestartproject/fixometer) project for more information.
 
-The structure here is provided as reference for a starting point to the open standard.
+The structure here is provided as reference for a starting point to the open standard.  As we move to an open data standard, things such as the types of data and whether certain data is required vs optional will change.
 
 ## categories
 
@@ -62,7 +62,7 @@ Devices are brought for repair to events.  At an event, multiple devices are log
 * `latitude`: geocoded latitude
 * `longitude`: geocoded longitude
 * `free_text`: textual description of the event
-* `pax`: number of participants
+* `pax`: number of participants that attended the event
 * `volunteers`: number of volunteers
 * `hours`:   number of hours volunteered
 * `wordpress_post_id`: link to the corresponding post on Wordpress for the event
