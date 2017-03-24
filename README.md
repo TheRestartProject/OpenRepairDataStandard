@@ -18,4 +18,4 @@ The Fixometer has been in use for the last 2 years by over 15 Restart repair gro
 
 Presently we log the fixes we attempt — successful or not — at our community’s repair events around the world. We log data points such as the model and brand of the device, what the problem was, whether we could fix it, and whether spare parts were required. We then combine this data with our research data of product lifecycle assessments for a wide variety of small electrical and electronics products. From these two datasets (downloadable [here](https://therestartproject.org/download-dataset/) and [here](https://docs.google.com/spreadsheets/d/1MMkPsyrI6ulWkyz6tJbXONUXiOqKWj2v-2cSPJEzuEo/edit#gid=0)) we produce detailed analysis on the positive environmental and social impacts of our work.
 
-Read about the current values we are recording [here](Current Structure.md).  This is the starting point for expansion into the open standard.
+Read about the current values we are recording [here](https://github.com/TheRestartProject/OpenRepairDataStandard/blob/master/Current%20Structure.md).  This is the starting point for expansion into the open standard.
