@@ -7,19 +7,21 @@ data provide many benefits for the repair economy.
 
 We aim to:
 
-* Scale up waste prevention and resource efficiency through the rebirth of a 
-vibrant commercial repair sector. 
-
-* Produce much more data and evidence to help regulators take the right decisions.
-
-* To inform manufacturers and retailers of consumers' frustration with the status quo.
-
 * Create an open data standard for post-warranty repairs together with other
 community repair networks and repair SMEs, aggregating data on what is breaking
 and barriers to repair, and influence decision-makers and regulators in
 Brussels.
 
-## For community repair and citizens
+* Scale up waste prevention and resource efficiency through the rebirth of a 
+vibrant commercial repair sector. 
+
+* Inform manufacturers and retailers of consumers' frustration with the status quo.
+
+* Produce much more data and evidence to help regulators take the right decisions.
+
+## Benefits and services
+
+### For community repair and citizens
 
 * Allow repair organisers to log all performed repairs, capturing the 
 environmental and social impact of their work: the weight of waste prevented, the 
@@ -40,22 +42,21 @@ specific brands and models
 
 * Produce data linking faults and repairability rates with specific brands and
   products
-  
-## For regulators and policy-makers
 
-* Provide a unique barometer of citizen frustration and demand for action:
-improvements on design, spare part provision, repair services and prolonged
-support.
 
-* Allow for the comparison of actual failure rates of specific products and
-brands, to give policy-makers independent data to back their efforts during
-investigations, research and negotiations.
+### For repair SMEs
 
-* Examples could include the need to review regulations on availability of
-quality or genuine spare parts; new approaches to authorising distribution of
-products in the EU based on repairability, faults, service provision.
+* Repair SMEs will seamlessly log data about their activities, receiving in
+exchange an environmental report of the impact of their work.
 
-## For manufacturers
+* Restart will work with commercial repairers providing information on the
+standards of their work, such as: provision of warranty and provenance of parts.
+
+* Through their involvement they will become more visible to the public and
+might access additional opportunities via manufacturers, spare parts providers
+and others.
+
+### For manufacturers
 
 * Manufacturers will be able to access data about their products normally not
   available to them.
@@ -74,19 +75,23 @@ changes in manufacturers' future products or services.
 repair will provide them with insights into what might lead a consumer to switch
 brand or confirm loyalty.
 
-## For repair SMEs
 
-* Repair SMEs will seamlessly log data about their activities, receiving in
-exchange an environmental report of the impact of their work.
+### For regulators and policy-makers
 
-* Restart will work with commercial repairers providing information on the
-standards of their work, such as: provision of warranty and provenance of parts.
+* Provide a unique barometer of citizen frustration and demand for action:
+improvements on design, spare part provision, repair services and prolonged
+support.
 
-* Through their involvement they will become more visible to the public and
-might access additional opportunities via manufacturers, spare parts providers
-and others.
+* Allow for the comparison of actual failure rates of specific products and
+brands, to give policy-makers independent data to back their efforts during
+investigations, research and negotiations.
+
+* Examples could include the need to review regulations on availability of
+quality or genuine spare parts; new approaches to authorising distribution of
+products in the EU based on repairability, faults, service provision.
 
 ## For other organisations
 
 Other potential beneficiaries of open repair data could be insurance companies;
 consumers' associations; retailers; academic institutions.
+
