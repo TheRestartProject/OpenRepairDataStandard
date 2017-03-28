@@ -17,7 +17,7 @@ for more information on what we intend to achieve.
 
 ## Background
 
-At The Restart Project we have been organising community repair events around the UK and supporting their replication internationally over the past four years.  From these events we have been building a repository of data on fixes and repairability, and on the positive social and environmental impacts of repairing devices. See https://therestartproject.org/faq/ and https://therestartproject.org/impact/ for more information on our work on this so far.
+At The Restart Project we have been organising community repair events around the UK and supporting their replication internationally over the past four years.  From these events we have been building a repository of data on fixes and repairability, and on the positive social and environmental impacts of repairing devices. See https://therestartproject.org/fixometer/ for more information on our work on this so far.
 
 For our community repair events we have been using a purpose-built web application to collect our data. The source code for this application is available at: https://github.com/TheRestartProject/Fixometer 
 
