@@ -8,9 +8,9 @@ data provide many benefits for the repair economy.
 We aim to:
 
 * Create an open data standard for post-warranty repairs together with other
-community repair networks and repair SMEs, aggregating data on what is breaking
-and barriers to repair, and influence decision-makers and regulators in
-Brussels.
+community repair networks, repair SMEs and other organisations with access to repair data.
+
+* Aggregate data on what is breaking and barriers to repair, to influence and support the work of decision-makers and regulators.
 
 * Scale up waste prevention and resource efficiency through the rebirth of a 
 vibrant commercial repair sector. 
@@ -23,7 +23,7 @@ vibrant commercial repair sector.
 
 ### For community repair and citizens
 
-* Allow repair organisers to log all performed repairs, capturing the 
+* Allow community repair organisers to log all performed repairs, capturing the 
 environmental and social impact of their work: the weight of waste prevented, the 
 CO2 prevented by displacing unnecessary purchases and the hours volunteered
 
@@ -62,7 +62,7 @@ and others.
   available to them.
 
 * While most in-warranty repairs are performed by a manufacturer's authorised
-repair network or directly in-house, post-warranty repairs are not, and data
+repair network or directly in-house, post-warranty repairs are often not, and data
 about them is much harder to gather.
 
 * Consumers often rely on third-party repairers or give up on brands entirely,
@@ -72,7 +72,7 @@ about them is much harder to gather.
 changes in manufacturers' future products or services.
 
 * Access to most frustrating recurrent faults that consumers are willing to
-repair will provide them with insights into what might lead a consumer to switch
+repair could provide them with insights into what might lead a consumer to switch
 brand or confirm loyalty.
 
 
