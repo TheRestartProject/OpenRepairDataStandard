@@ -12,12 +12,10 @@ community repair networks, repair SMEs and other organisations with access to re
 
 * Aggregate data on what is breaking and barriers to repair, to influence and support the work of decision-makers and regulators.
 
-* Scale up waste prevention and resource efficiency through the rebirth of a 
+* Support waste prevention and resource efficiency through the rebirth of a 
 vibrant commercial repair sector. 
 
 * Inform manufacturers and retailers of consumers' frustration with the status quo.
-
-* Produce much more data and evidence to help regulators take the right decisions.
 
 ## Benefits and services
 
@@ -49,12 +47,10 @@ specific brands and models
 * Repair SMEs will seamlessly log data about their activities, receiving in
 exchange an environmental report of the impact of their work.
 
-* Restart will work with commercial repairers providing information on the
-standards of their work, such as: provision of warranty and provenance of parts.
+* We will work with commercial repairers open about the standards of their work and committed to documenting the challenges they face.
 
 * Through their involvement they will become more visible to the public and
-might access additional opportunities via manufacturers, spare parts providers
-and others.
+might access additional opportunities.
 
 ### For manufacturers
 
@@ -65,11 +61,8 @@ and others.
 repair network or directly in-house, post-warranty repairs are often not, and data
 about them is much harder to gather.
 
-* Consumers often rely on third-party repairers or give up on brands entirely,
-  at times ignoring their consumer rights.
-
 * The type of information we collect can be instrumental for prioritising
-changes in manufacturers' future products or services.
+changes in the design of future products or services.
 
 * Access to most frustrating recurrent faults that consumers are willing to
 repair could provide them with insights into what might lead a consumer to switch
@@ -82,16 +75,13 @@ brand or confirm loyalty.
 improvements on design, spare part provision, repair services and prolonged
 support.
 
-* Allow for the comparison of actual failure rates of specific products and
-brands, to give policy-makers independent data to back their efforts during
+* Access to a new source of information on product failure, to give policy-makers independent data to back their efforts during
 investigations, research and negotiations.
 
-* Examples could include the need to review regulations on availability of
-quality or genuine spare parts; new approaches to authorising distribution of
-products in the EU based on repairability, faults, service provision.
+* Examples could include support to revisions of ecodesign criteria or research on early obsolescence linked to availability of spare parts or lack of software support.
 
 ## For other organisations
 
-Other potential beneficiaries of open repair data could be insurance companies;
+Other sources and potential beneficiaries of open repair data could be insurance companies;
 consumers' associations; retailers; academic institutions.
 
